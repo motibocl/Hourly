@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #f2eefa;
+}
+header{
+background: #e8e0d9;
+}
+.menuBt{
+    height: 20px;
+}
+.col-3{
+    margin: auto;
+}
+.col-6{
+    margin: auto;
+
+}
+.btn-outline-secondary{
+    margin-left: 30%;
+
+}
+#head{
+    padding: 4%;
+}
+#entBtn{
+    border-radius: 0%;
+    padding: 7%;
+    margin-top: 40%;
+    background-color: #4106b3;
+}
+.enter{
+    height: 30px;
+}
+.time{
+    text-align: center;
+}

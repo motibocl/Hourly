@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.img {
+    background-image: url("backgroundMob.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    position: relative;
+    font-size:4vw;
+    text-align: right;
+    color: aliceblue;
+    top: 9%;
+    left: -15%;
+
+}
